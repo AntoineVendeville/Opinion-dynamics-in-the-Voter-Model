@@ -1,5 +1,3 @@
-# How opinions crystallise: an analysis of polarisation in the voter model
-
 The `.py` file contains functions used for simulations.
 
 To recreate the plots presented in the paper <i>Voter Model with Stubborn Agents on Strongly Connected Social Networks</i> use `strongly_connected.ipynb`
