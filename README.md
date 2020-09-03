@@ -1,4 +1,4 @@
-# Voter Model Project
+# How Opinions Crystallise
 
 This repository contains code for various works related to the analysis opinion dynamics under the voter model.
 
@@ -6,4 +6,4 @@ To recreate the plots presented in the paper <i>Voter Model with Stubborn Agents
 
 To recreate the plots presented in the paper https://arxiv.org/abs/2006.07265, use the Jupyter notebook `opinions_main.ipynb`.
 
-The `.py` file contains functions used for simulations.
+`opinions_functions.py` file contains functions used for simulations.
