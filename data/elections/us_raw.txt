@@ -1,0 +1,130 @@
+1912 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Woodrow Wilson/Thomas R. Marshall	6,296,284	41.8%
+Progressive	Theodore Roosevelt/Hiram Johnson	4,122,721	27%
+Republican	William Howard Taft (incumbent)/Nicholas Murray Butler	3,486,242	23.2%
+Socialist	Eugene V. Debs/Emil Seidel	901,551	6%
+1916 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Woodrow Wilson (incumbent)/Thomas R. Marshall (incumbent)	9,126,868	49.2%
+Republican	Charles Evans Hughes/Charles W. Fairbanks	8,548,728	46.1%
+1920 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Warren G. Harding/Calvin Coolidge	16,114,093	60.3%
+Democratic	James M. Cox/Franklin D. Roosevelt	9,139,661	34.2%
+1924 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Calvin Coolidge (incumbent)/Charles G. Dawes	15,723,789	54%
+Democratic	John W. Davis/Charles W. Bryan	8,386,242	28.8%
+Progressive	Robert La Follette/Burton K. Wheeler	4,831,706	16.6%
+1928 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Herbert Hoover/Charles Curtis	21,427,123	58.2%
+Democratic	Al Smith/Joseph Taylor Robinson	15,015,464	40.8%
+1932 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Franklin D. Roosevelt/John Nance Garner	22,821,277	57.4%
+Republican	Herbert Hoover (incumbent)/Charles Curtis (incumbent)	15,761,254	39.7%
+1936 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Franklin D. Roosevelt (incumbent)/John Nance Garner (incumbent)	27,752,648	60.8%
+Republican	Alf Landon/Frank Knox	16,681,862	36.5%
+1940 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Franklin D. Roosevelt (incumbent)/Henry A. Wallace	27,313,945	54.7%
+Republican	Wendell Willkie/Charles L. McNary	22,347,744	44.8%
+1944 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Franklin D. Roosevelt (incumbent)/Harry S. Truman	25,612,916	53.4%
+Republican	Thomas E. Dewey/John W. Bricker	22,017,929	45.9%
+1948 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Harry S. Truman (incumbent)/Alben W. Barkley	24,179,347	49.6%
+Republican	Thomas E. Dewey/Earl Warren	21,991,292	45.1%
+Dixiecrat	Strom Thurmond/Fielding L. Wright	1,175,930	2.4%
+Progressive	Henry A. Wallace/Glen H. Taylor	1,157,328	2.4%
+1952 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Dwight D. Eisenhower/Richard Nixon	34,075,529	55.2%
+Democratic	Adlai Stevenson II/John Sparkman	27,375,090	44.3%
+1956 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Dwight D. Eisenhower (incumbent)/Richard Nixon (incumbent)	35,579,180	57.4%
+Democratic	Adlai Stevenson II/Estes Kefauver	26,028,028	42%
+Dixiecrat	T. Coleman Andrews/Thomas Werdel	305,274	0.5%
+Democratic	Walter Burgwyn Jones/Herman Talmadge	0	0%
+1960 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	John F. Kennedy/Lyndon B. Johnson	34,220,984	49.7%
+Republican	Richard Nixon/Henry Cabot Lodge Jr.	34,108,157	49.6%
+Dixiecrat	Harry F. Byrd/Strom Thurmond	610,409	0.4%
+1964 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Lyndon B. Johnson (incumbent)/Hubert Humphrey	43,127,041	61%
+Republican	Barry Goldwater/William E. Miller	27,175,754	38.5%
+1968 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Richard Nixon/Spiro Agnew	31,783,783	43.4%
+Democratic	Hubert Humphrey/Edmund Muskie	31,271,839	42.7%
+American Independent	George Wallace/Curtis LeMay	9,901,118	13.5%
+1972 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Richard Nixon (incumbent)/Spiro Agnew (incumbent)	47,168,710	60.7%
+Democratic	George McGovern/Sargent Shriver	29,173,222	37.5%
+Libertarian	John Hospers/Tonie Nathan	3,674	<0.01%
+1976 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Jimmy Carter/Walter Mondale	40,831,881	50.1%
+Republican	Gerald Ford (incumbent)/Bob Dole	39,148,634	48%
+Republican	Ronald Reagan/Bob Dole	0	0%
+1980 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Ronald Reagan/George H. W. Bush	43,903,230	50.7%
+Democratic	Jimmy Carter (incumbent)/Walter Mondale (incumbent)	35,480,115	41%
+Independent	John B. Anderson/Patrick Lucey	5,719,850	6.6%
+1984 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Ronald Reagan (incumbent)/George H. W. Bush (incumbent)	54,455,472	58.8%
+Democratic	Walter Mondale/Geraldine Ferraro	37,577,352	40.6%
+1988 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	George H. W. Bush/Dan Quayle	48,886,597	53.4%
+Democratic	Michael Dukakis/Lloyd Bentsen	41,809,476	45.6%
+Democratic	Lloyd Bentsen/Michael Dukakis	0	0%
+1992 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Bill Clinton/Al Gore	44,909,806	43%
+Republican	George H. W. Bush (incumbent)/Dan Quayle (incumbent)	39,104,550	37.4%
+Independent	Ross Perot/James Stockdale	19,743,821	18.9%
+1996 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Bill Clinton (incumbent)/Al Gore (incumbent)	47,401,185	49.2%
+Republican	Bob Dole/Jack Kemp	39,197,469	40.7%
+Reform	Ross Perot/Pat Choate	8,085,294	8.4%
+2000 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	George W. Bush/Dick Cheney	50,456,002	47.9%
+Democratic	Al Gore/Joe Lieberman	50,999,897	48.4%
+2004 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	George W. Bush (incumbent)/Dick Cheney (incumbent)	62,040,610	50.7%
+Democratic	John Kerry/John Edwards	59,028,444	48.3%
+Democratic	John Edwards/John Edwards	5	<0.01%
+2008 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Barack Obama/Joe Biden	69,498,516	52.9%
+Republican	John McCain/Sarah Palin	59,948,323	45.7%
+2012 United States Presidential Election
+Party	Candidate	Votes	%
+Democratic	Barack Obama (incumbent)/Joe Biden (incumbent)	65,915,795	51.1%
+Republican	Mitt Romney/Paul Ryan	60,933,504	47.2%
+2016 United States Presidential Election
+Party	Candidate	Votes	%
+Republican	Donald Trump/Mike Pence	62,984,828	46.1%
+Democratic	Hillary Clinton/Tim Kaine	65,844,610	48.1%
+Libertarian	Gary Johnson/William Weld	4,489,235	3.3%
+Green	Dr. Jill Stein/Ajamu Baraka	1,457,226	1.1%
+Independent	Evan McMullin/Mindy Finn	732,273	0.5%
+Democratic	Bernie Sanders/Elizabeth Warren	108,776	0.08%
+Republican	John Kasich/Carly Fiorina	2,684	<0.01%
+Libertarian	Ron Paul/Mike Pence (Republican)	124	<0.01%
