@@ -1,9 +1,9 @@
 # How Opinions Crystallise
 
-This repository contains code for various works related to the analysis opinion dynamics under the voter model.
+This repository contains code for various works related to the analysis of opinion dynamics under the voter model.
 
-- To recreate the analysis and plots in <i>Forecasting elections results via the voter model with stubborn agents </i> use `elections.ipynb`. The data is stored in `data/elections/`.
+- All code used for <i>Forecasting elections results via the voter model with stubborn agents </i> is in `elections.ipynb`. The data is stored in `data/elections/`.
 
-- To recreate the plots presented in <i>Voter Model with Stubborn Agents on Strongly Connected Social Networks</i> use the Jupyter notebook `strongly_connected.ipynb`.
+- All code used for <i>Voter model with zealots for social opinion evolution</i> is in the Jupyter notebook `voter_model.ipynb`. Folder `simu_results/` contains results of the simulations performed for the paper and used for plots.
 
 `util.py` file contains functions used for simulations.
