@@ -6,9 +6,7 @@ This repository contains code for various works related to the analysis of opini
   - Data Type: Congressional Parties
   - Chamber: Both
   - Congress: All
-  - File Format: CSV
- 
-The resulting file is the one we use in our analysis and should be named `HSall_parties.csv`. If you use it, don't forget to cite the authors (see website)!
+  - File Format: CSV. The resulting file is the one we use in our analysis and should be named `HSall_parties.csv`. If you use it, don't forget to cite the authors (see website)!
 
 - All code used for <i>Towards control of opinion diversity by introducing zealots into a polarised social group</i> is in `opinion_control.ipynb`. Folder `simu_results/` contains results of the simulations performed for the paper and used for plots.
 
